@@ -1,0 +1,22 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siping-Liu/circleci-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siping-Liu/circleci-test/issues"
+  },
+  "homepage": "https://github.com/Siping-Liu/circleci-test#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
